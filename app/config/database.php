@@ -55,8 +55,8 @@ return array(
 		'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => 'localhost',
-			'database'  => 'twdstudi_kevin',
-			'username'  => 'twdstudi_jimmy3',
+			'database'  => 'blog',
+			'username'  => 'root',
 			'password'  => 'jimmy1234',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
